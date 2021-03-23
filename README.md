@@ -1,13 +1,13 @@
 # Crazy Racing
 An html5 car-racing game.
 
-- **Author:** Yuehao Wang
+- **Author:** Jaideep25
 - **Game Engine:** [lufylegend.js](http://lufylegend.com/lufylegend)
 - Materials come from the Internet and I am here to say thanks to those contributors.
 - Support main-stream web browsers, iOS and Android.
 
 ## Play Online
-URL: http://yuehaowang.github.io/games/crazy_racing/index.html
+URL: https://jaideep25.github.io/Car-Racer-2.0/
 
 ## Screenshot
 **Game Page:**
